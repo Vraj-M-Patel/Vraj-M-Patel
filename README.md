@@ -1,56 +1,75 @@
 <div align="center">
-<img src="./octo.gif" alt="GitHub Logo" width="150" height="150" />
+  <img src="./octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
-# Welcome To My GitHub Profile !
+# Welcome to My GitHub Profile 🚀
 
 <br/>
 <div align="center">
-<img src="./screen-new.gif" alt="Shivam Patel Typer" width="550" height="200"/>
+  <img src="./screen-new.gif" alt="Typing animation" width="550" height="200"/>
 </div>
 <br/>
 
+---
+
+### 👋 Hi, I'm **Vraj Patel**
+
+- 🎓 Physics & Astronomy undergraduate with a strong interest in **Aerospace Engineering**
+- 🛰️ Aspiring researcher/engineer working at the intersection of **space systems, simulations, and data analysis**
+- 🌌 Interested in **orbital mechanics, multibody dynamics, and space mission design**
+
 <br/>
-
-- 🙌 I'm currently working as a **Database Programmer** at the Ontario Provincial Police (OPP)
-
-<br/><br/>
 
 <div align="center">
-<img src="./coderman.gif" alt="Coder" width="400" height="250" />
+  <img src="./coderman.gif" alt="Coder" width="400" height="250" />
 </div>
-<br/>
 
-- 🔭 I’m currently working on: **developing a pathfinder website equipped with multiple algorithms to efficiently find the optimal route between two nodes, aiming to empower users with a deeper understanding of these algorithms**
+---
 
-- 🌱 I’m currently learning: **Vue.js | Node.js | SQL | Java | AWS**
+### 🔭 Currently Working On
+- 📊 **F1 race analytics & overtake detection** using Python, FastF1, and Dash  
+- 🪐 **Planet formation modeling** using numerical simulations (Helled & Bodenheimer–style accretion models)  
+- 🧮 Physics-based simulations involving **orbital perturbations, detectors, and signal analysis**
 
+---
+
+### 🌱 Currently Learning
+**Python | C++ | Numerical Methods | Orbital Mechanics | Control Systems | Data Visualization**
+
+---
 
 <div align="center">
-<img src="./giphy.webp" alt="eatsleepcode" width="250" height="250" />
+  <img src="./giphy.webp" alt="eatsleepcode" width="250" height="250" />
 </div>
 
+---
 
-- 💬 Ask me about: **Software Development | Football | Gaming | Music**
+### 💬 Ask Me About
+- Physics & Astronomy 🔭  
+- Aerospace & Orbital Dynamics 🚀  
+- Scientific Computing & Simulations 💻  
+- Data Analysis & Visualization 📈  
 
-- 🤓 Active User at: **GitHub | LinkedIn**
+---
 
-- 📫 How to reach me:
+### 🤓 Active On
+**GitHub | LinkedIn**
 
-    * [**Drop a Mail**](mailto:shivampatel6808@gmail.com)
+---
 
-    * [**Connect via LinkedIn**](https://www.linkedin.com/in/shivam-patel-07759b1a0/)
+### 📫 How to Reach Me
+- 📧 [**Drop a Mail**](mailto:your.email@domain.com)
+- 🔗 [**Connect on LinkedIn**](https://www.linkedin.com/in/your-linkedin/)
+- 🌐 [**Visit My Portfolio**](https://your-website.com)
 
-    * [**Visit my Website**](https://shivamp.vercel.app/)
-   
 <div align="center">
-<img src="./connected.gif" alt="Shivam Patel" width="350" height="200" />
+  <img src="./connected.gif" alt="Connected" width="350" height="200" />
 </div>
 
-<br/>
+---
 
-- ⚡ Fun Facts:
-    * *I think I have surprisingly good social skills for a software dev — I can debug code and awkward conversations with equal finesse! 💻😅*
-    * *When I'm not busy coding or watching football, I love surprising my family with new culinary creations in the kitchen, turning ordinary meals into memorable feasts!🍳👨‍🍳*
-   
+### ⚡ Fun Facts
+- *Enjoys translating complex physics into clean, readable code — and occasionally into plots that actually make sense 📊😄*
+- *Equally excited by space missions, fast cars, and well-optimized algorithms 🛰️🏎️*
+
 <br/>
