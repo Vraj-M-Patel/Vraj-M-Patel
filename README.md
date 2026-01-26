@@ -6,7 +6,7 @@
 
 <br/>
 <div align="center">
-  <img src="./screen-new.gif" alt="Typing animation" width="550" height="200"/>
+  <img src="./astronaut.gif" alt="astronaut" width="200" height="200"/>
 </div>
 <br/>
 
@@ -14,38 +14,39 @@
 
 ### 👋 Hi, I'm **Vraj Patel**
 
-- 🎓 Physics & Astronomy undergraduate with a strong interest in **Aerospace Engineering**
-- 🛰️ Aspiring researcher/engineer working at the intersection of **space systems, simulations, and data analysis**
-- 🌌 Interested in **orbital mechanics, multibody dynamics, and space mission design**
+- 🎓 Physics & Astronomy undergraduate with a strong interest in **Flight Mechanics.**
+- 🛰️ Aspiring researcher/engineer working at the intersection of **space systems, simulations, and data analysis.**
+- 🌌 Interested in **orbital mechanics, multibody dynamics, and space mission design.**
 
 <br/>
 
 <div align="center">
-  <img src="./coderman.gif" alt="Coder" width="400" height="250" />
+  <img src="./satellite-orbit.gif" alt="orbiter" width="400" height="250" />
 </div>
 
 ---
 
 ### 🔭 Currently Working On
-- 📊 **F1 race analytics & overtake detection** using Python, FastF1, and Dash  
-- 🪐 **Planet formation modeling** using numerical simulations (Helled & Bodenheimer–style accretion models)  
-- 🧮 Physics-based simulations involving **orbital perturbations, detectors, and signal analysis**
+- 🪐 **Planet formation modeling** using numerical simulations of planetesimal accretion (following Helled & Bodenheimer 2014).
+- 📊 **F1 Race Analytics API and tire degradation modeling** using Python, FastF1, and Dash.
+- 🚀 **Orbital mechanics simulator in MATLAB** for trajectory propagation and perturbation analysis in multi-body systems.
+
 
 ---
 
 ### 🌱 Currently Learning
-**Python | C++ | Numerical Methods | Orbital Mechanics | Control Systems | Data Visualization**
+**Python | C++ | GEANT4 | Numerical Methods | Orbital Mechanics | Control Systems**
 
 ---
 
 <div align="center">
-  <img src="./giphy.webp" alt="eatsleepcode" width="250" height="250" />
+  <img src="./deap3600.gif" alt="snolab" width="250" height="250" />
 </div>
 
 ---
 
 ### 💬 Ask Me About
-- Physics & Astronomy 🔭  
+- Astrophysics 🔭  
 - Aerospace & Orbital Dynamics 🚀  
 - Scientific Computing & Simulations 💻  
 - Data Analysis & Visualization 📈  
@@ -58,18 +59,18 @@
 ---
 
 ### 📫 How to Reach Me
-- 📧 [**Drop a Mail**](mailto:your.email@domain.com)
+- 📧 [**Drop a Email**](mailto:your.email@domain.com)
 - 🔗 [**Connect on LinkedIn**](https://www.linkedin.com/in/your-linkedin/)
 - 🌐 [**Visit My Portfolio**](https://your-website.com)
 
 <div align="center">
-  <img src="./connected.gif" alt="Connected" width="350" height="200" />
+  <img src="./web-development.gif" alt="webdevelopment" width="350" height="200" />
 </div>
 
 ---
 
 ### ⚡ Fun Facts
-- *Enjoys translating complex physics into clean, readable code — and occasionally into plots that actually make sense 📊😄*
-- *Equally excited by space missions, fast cars, and well-optimized algorithms 🛰️🏎️*
+- *Enjoys translating complex physics into clean, readable code — and occasionally into plots that actually make sense. 📊😄*
+- *Equally excited by space missions, fast cars, and well-optimized algorithms. 🛰️🏎️*
 
 <br/>
