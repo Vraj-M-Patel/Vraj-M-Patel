@@ -59,7 +59,7 @@
 ---
 
 ### 📫 How to Reach Me
-- 📧 [**Drop a Email**](mailto:your.email@domain.com)
+- 📧 [**Drop an Email**](mailto:your.email@domain.com)
 - 🔗 [**Connect on LinkedIn**](https://www.linkedin.com/in/your-linkedin/)
 - 🌐 [**Visit My Portfolio**](https://your-website.com)
 
