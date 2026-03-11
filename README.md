@@ -59,9 +59,9 @@
 ---
 
 ### 📫 How to Reach Me
-- 📧 [**Drop an Email**](mailto:your.email@domain.com)
-- 🔗 [**Connect on LinkedIn**](https://www.linkedin.com/in/your-linkedin/)
-- 🌐 [**Visit My Portfolio**](https://your-website.com)
+- 📧 [**Drop an Email**](mailto:vrajpatel6808@gmail.com)
+- 🔗 [**Connect on LinkedIn**](https://www.linkedin.com/in/vraj-patel6808/)
+- 🌐 [**Visit My Portfolio**](https://vrajpatell.vercel.app)
 
 <div align="center">
   <img src="./web-development.gif" alt="webdevelopment" width="350" height="200" />
