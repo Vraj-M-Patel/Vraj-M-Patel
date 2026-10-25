@@ -14,8 +14,9 @@
 
 ### 👋 Hi, I'm **Vraj Patel**
 
-- 🎓 Physics & Astronomy undergraduate with a strong interest in **Flight Mechanics.**
-- 🛰️ Aspiring researcher/engineer working at the intersection of **space systems, simulations, and data analysis.**
+- 🎓 M.Eng. Co-op Aerospace Engineering student at the **University of Toronto**, with a strong interest in **Flight Mechanics.**
+- 🏅 Graduated from the **University of Waterloo** with a bachelor's degree in Physics & Astronomy and **Dean's Honours.**
+- 🛰️ Currently looking for co-op opportunities in the **space systems** field, working at the intersection of simulations and data analysis.
 - 🌌 Interested in **orbital mechanics, multibody dynamics, and space mission design.**
 
 <br/>
