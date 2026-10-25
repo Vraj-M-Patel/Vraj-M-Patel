@@ -35,8 +35,8 @@
 
 ---
 
-### 🌱 Currently Learning
-**Python | C++ | GEANT4 | Numerical Methods | Orbital Mechanics | Control Systems**
+### 🌱 Constantly Learning
+**Python | C++ | GEANT4 | Numerical Methods | Orbital Mechanics | MATLAB | Simulink | Control Systems | Flight Dynamics**
 
 ---
 
